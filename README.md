@@ -1,1 +1,1 @@
-# info4110-serverless-log-analysis
+# INFO4110-Severless-Log-Analysis
